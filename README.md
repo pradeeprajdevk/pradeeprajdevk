@@ -8,8 +8,8 @@ Hello! I'm **Pradeep Raj K**, a passionate **Full-Stack Software Engineer** with
 
 📍 **Location:** Bangalore, India  
 📧 **Email:** [pradeeprajdevk@gmail.com](mailto:pradeeprajdevk@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-📂 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+💼 **LinkedIn:** [linkedin.com/in/pradeep-raj-252a4750](https://www.linkedin.com/in/pradeep-raj-252a4750/)  
+📂 **Portfolio:** [pradeeprajk.vercel.app/](https://pradeeprajk.vercel.app/)
 
 ---
 
@@ -40,3 +40,16 @@ Hello! I'm **Pradeep Raj K**, a passionate **Full-Stack Software Engineer** with
 
 ## 📌 Open Source Contributions  
 - 
+
+---
+
+## 📫 Let's Connect  
+I'm always open to discussing **new opportunities, collaborations, and innovative ideas**. Feel free to reach out!  
+
+📧 **Email:** [pradeeprajdevk@gmail.com](mailto:pradeeprajdevk@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/pradeep-raj-252a4750](https://www.linkedin.com/in/pradeep-raj-252a4750/)  
+🌐 **Portfolio:** [pradeeprajk.vercel.app/](https://pradeeprajk.vercel.app/)
+
+---
+
+### 🚀 "Code, Build, Automate, and Scale!" 
